@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SaloniCodesUI
+- 👋 Hi, I’m Saloni
 - 👀 I’m interested in Gaming and UI
 - 🌱 I’m currently learning to grow UI Skills
 - 💞️ I’m looking to collaborate on React and javascript
